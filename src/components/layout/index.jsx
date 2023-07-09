@@ -1,6 +1,6 @@
 import React from "react";
-import Sidebar from "./sidebar";
-import Header from "./header";
+import Sidebar from "./Sidebar";
+import Header from "./Header";
 import HabitDetails from "../HabitDetails";
 
 const index = ({ setIsShowAddHabitModal, selectedHabit, setSelectedHabit }) => {
